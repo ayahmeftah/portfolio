@@ -42,6 +42,10 @@ h2 {
     text-align: center;
 }
 
+#about, #skills, #projects {
+    margin-top: 5rem;
+}
+
 .highlight {
     color: #0077ff;
 }
