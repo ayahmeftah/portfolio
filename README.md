@@ -2,7 +2,6 @@
 
 A modern, responsive portfolio website showcasing my projects, skills, and experience as a software engineer.
 
-![Portfolio Preview](https://img.shields.io/badge/Portfolio-Ayah%20Meftah-6366f1?style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -34,3 +33,16 @@ Visit my portfolio at: [https://ayahmeftah.github.io/portfolio](https://ayahmeft
 - **Google Fonts (Poppins)** - Modern typography
 
 
+## 🎯 Sections
+- Hero - Introduction with social links
+- About Me - Personal background and passion
+- Tech Stack - Organized by Frameworks, Programming Languages, and Databases
+- Projects - Featured work with technologies used
+- Contact - Professional contact information
+
+## 📱 Responsive Design
+
+The portfolio is optimized for:
+- Desktop (1200px+)
+- Tablet (768px - 1199px)
+- Mobile (320px - 767px)
